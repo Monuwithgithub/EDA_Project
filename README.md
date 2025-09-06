@@ -36,7 +36,7 @@ Dateset : Olympic Dta Analysis
 
 Insights:
 
-Dataset: https://www.kaggle.com/datasets/yeganehbavafa/vnl-men-2023
+Dataset: https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data
 
 ⚙️ Tech Stack
 
