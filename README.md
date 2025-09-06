@@ -8,6 +8,8 @@ Each project demonstrates step-by-step data cleaning, transformation, visualizat
 
 2->Volleyball Analysis
 
+3-> Olympic Analysis
+
 1. BOOK SALES
 
 Dataset: Bookstore sales data (titles, authors, genres, revenue, ratings)
@@ -27,6 +29,14 @@ Insights: Player performance, rally patterns, game trends
 Visuals: Pandas-based charts and seaborn plots
 
 Dataset : https://www.kaggle.com/datasets/yeganehbavafa/vnl-men-2023
+
+3. Olympic Analysis
+
+Dateset : Olympic Dta Analysis
+
+Insights:
+
+Dataset: https://www.kaggle.com/datasets/yeganehbavafa/vnl-men-2023
 
 ⚙️ Tech Stack
 
